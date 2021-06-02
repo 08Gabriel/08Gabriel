@@ -3,7 +3,13 @@
 - :technologist: I'm a student of Information Systems
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 
-<img src="https://github-readme-stats.vercel.app/api?username=08Gabriel&show_icons=true" alt="Gabriel"/> 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=08Gabriel&show_icons=true&theme=radical" alt="Gabriel"/> 
+</p>
+
+<hr>
 
 <p align="center">
   <a href="https://linkedin.com/in/gabriel-silva-1982b7178" target="blank" ><img align="center" alt="Gabriel Silva"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" heigth="25" width="25"/></a>
