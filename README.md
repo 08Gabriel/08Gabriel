@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Gabriel</h1>
 
 - :technologist: I'm a student of Information Systems
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning C# and SqlServer.
 
 <br>
 
